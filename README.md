@@ -8,6 +8,9 @@
 ![Canvas 2D](https://img.shields.io/badge/Canvas_2D-6366F1?style=for-the-badge&logo=opengl&logoColor=white)
 ![No Dependencies](https://img.shields.io/badge/Dependencies-0-success?style=for-the-badge)
 ![Author](https://img.shields.io/badge/Author-Abhinav_Chitrey-38bdf8?style=for-the-badge&logo=github)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-GitHub_Pages-2ea44f?style=for-the-badge&logo=github)](https://chitreyabhinav.github.io/Phone-FaceOff/)
+
+👉 **Live Demo**: [https://chitreyabhinav.github.io/Phone-FaceOff/](https://chitreyabhinav.github.io/Phone-FaceOff/)
 
 ---
 
